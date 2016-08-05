@@ -1,13 +1,13 @@
 # work
 
 ##Время
-toggl.com
+[toggl](http://toggl.com)
 
 ##Задачи
-trello.com
+[trello](http://trello.com)
 
 ##Обсуждения
-web.telegram.org
+[telegram](http://web.telegram.org)
 
 ##Репо
-https://github.com/trendever/website
+[github](https://github.com/trendever/website)
